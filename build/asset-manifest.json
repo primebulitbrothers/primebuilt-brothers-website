@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/primebuilt-brothers-website/static/css/main.e3798532.css",
-    "main.js": "/primebuilt-brothers-website/static/js/main.a06ad81c.js",
+    "main.js": "/primebuilt-brothers-website/static/js/main.27b60e0b.js",
     "index.html": "/primebuilt-brothers-website/index.html",
     "main.e3798532.css.map": "/primebuilt-brothers-website/static/css/main.e3798532.css.map",
-    "main.a06ad81c.js.map": "/primebuilt-brothers-website/static/js/main.a06ad81c.js.map"
+    "main.27b60e0b.js.map": "/primebuilt-brothers-website/static/js/main.27b60e0b.js.map"
   },
   "entrypoints": [
     "static/css/main.e3798532.css",
-    "static/js/main.a06ad81c.js"
+    "static/js/main.27b60e0b.js"
   ]
 }

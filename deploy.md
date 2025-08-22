@@ -12,7 +12,8 @@ This guide will walk you through deploying your React frontend and Node.js backe
    ```
 
 2. **Deploy to Netlify:**
-   - Go to [netlify.com](https://netlify.com)
+   - Go to [netlify.com](https://netlif
+   y.com)
    - Sign up/Login with GitHub
    - Click "New site from Git"
    - Connect your repository
